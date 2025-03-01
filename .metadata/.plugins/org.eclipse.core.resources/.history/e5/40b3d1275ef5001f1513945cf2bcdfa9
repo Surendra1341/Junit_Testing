@@ -1,0 +1,44 @@
+package com.Testing;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class TestTrial {
+
+	@Test
+	void test() {
+		assertEquals(6, 6);
+	}
+	@Test
+	void testAreaOfSquare() {
+		Shape shape = new Shape();
+		assertEquals(576, shape.AreaOfSquare(24));
+	}
+	@Test
+	void testAreaOfCircle() {
+		Shape shape = new Shape();
+		assertEquals(78.5, shape.AreaOfCircle(5),"area of circle calculated wrong");
+	}
+	
+	@Test
+	void testAreaOfCircle_Supplier() {
+		Shape shape = new Shape();
+		assertEquals(78.5, shape.AreaOfCircle(5),()->"area of circle calculated wrong"); //using supplier function interface
+	}
+	
+	//assert_ not _ equal using 
+	//test will fail if expected = actual
+	@Test
+	void testAreaOfCircle_Message() {
+		Shape shape = new Shape();
+		assertNotEquals(576, shape.AreaOfSquare(24),"meassage to dev if test case failed");
+	}
+	
+	@Test
+	void testAreaOfCircle_Message_Supplier() {
+		Shape shape = new Shape();
+		assertNotEquals(576, shape.AreaOfSquare(24),"meassage to dev if test case failed");
+	}
+
+}

@@ -1,0 +1,17 @@
+package com.Testing;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class ReverseStringTest {
+
+	@Test
+	public void test() {
+		ReverseString obj=new ReverseString();
+		String actual=obj.reverse("java");
+		String expected=
+		assertEquals("avaj, actual);
+	}
+
+}

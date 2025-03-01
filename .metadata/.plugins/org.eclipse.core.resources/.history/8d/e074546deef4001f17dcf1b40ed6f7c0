@@ -1,0 +1,15 @@
+package com.Testing;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class ReverseStringTest {
+
+	@Test
+	void testReverse() {
+		ReverseString obj = new ReverseString();
+		assertEquals("avaj", obj.reverse("java"));
+	}
+
+}

@@ -1,0 +1,11 @@
+package com.Course;
+
+public class JavaCourse implements Course {
+
+	@Override
+	boolean coursePurchased() {
+		System.out.println("java course purchased");
+		return true;
+		
+	}
+}

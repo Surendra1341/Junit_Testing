@@ -1,0 +1,11 @@
+package com.Testing.Course;
+
+public class PythonCourse  implements Course{
+	
+	 public boolean coursePurchased() {
+		System.out.println("pnce rython course purchased ");
+		System.out.println("It is not connect to db he");
+		return true;
+	}
+
+}

@@ -1,0 +1,17 @@
+package com.Testing;
+
+public class ReverseString {
+	public String reverse(String str) {
+		char[] arr = str.toCharArray();
+		int left = 0;
+		int right = arr.length - 1;
+		while (left < right) {
+			char temp = arr[right];
+			arr[right] = arr[left];
+			arr[right] = temp;
+			left++;
+			left--;
+		}
+		return new String(arr);
+	}
+}

@@ -1,0 +1,22 @@
+package com.Testng;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import java.util.Arrays;
+
+import org.junit.jupiter.api.Test;
+
+class ArrayTesting {
+	@Test
+	void test() {
+		int[] expected= {2,4,6,8};
+		int[] actual= {4,6,8,2};
+		
+		Arrays.sort(actual);  //2 4 6 8....
+		
+		assertArrayEquals(expected, actual);
+		// if you use normal asserEquals(expected, actual);  it always give failure because 
+		// this not compare data but comparing reference variable on the heap so =>DON'T use it
+		
+	}
+}

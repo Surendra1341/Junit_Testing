@@ -1,0 +1,21 @@
+package com.Testing;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class ShapeTest {
+
+	@Test
+	void testAreaOfSquare() {
+		Shape shape=new Shape();
+		assertEquals(576, shape.AreaOfSquare(24));
+	}
+	
+	@Test
+	void testAreaOfCircle() {
+		Shape shape=new Shape();
+		assertEquals(78.5, shape.AreaOfCircle(5),"area of circle ");
+	}
+
+}

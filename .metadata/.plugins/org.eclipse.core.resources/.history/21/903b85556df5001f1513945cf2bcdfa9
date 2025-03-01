@@ -1,0 +1,32 @@
+package com.Testng;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+import com.Testing.SortingArray;
+
+class TestException {
+
+	@Test
+	void testSortingArray_Exception() {
+		try {
+		SortingArray arrays= new SortingArray();
+		int[] unsorted= {2,4,5};
+		int[] sorted= arrays.sortingArray(unsorted);
+		
+		System.out.println("line below exception never executed if exception arises!!!");
+		for(int  n : sorted) {
+			System.out.println(n+" ");
+		}
+		//because if not generate exception it should fail
+		
+		
+		} catch (NullPointerException e) {
+			// TODO: handle exception
+			System.out.println("Exception generated!!!!");
+		}
+		
+	}
+
+}

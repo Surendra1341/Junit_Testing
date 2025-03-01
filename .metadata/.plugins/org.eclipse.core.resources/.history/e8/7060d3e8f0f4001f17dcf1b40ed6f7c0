@@ -1,0 +1,15 @@
+package com.Testing;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class ShapeTest {
+
+	@Test
+	void testAreaOfSquare() {
+		Shape shape=new Shape();
+		assertEq
+	}
+
+}

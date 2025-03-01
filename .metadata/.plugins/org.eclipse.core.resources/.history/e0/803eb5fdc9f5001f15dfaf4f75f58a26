@@ -1,0 +1,57 @@
+package com.Testing;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import javax.naming.InitialContext;
+
+import org.junit.jupiter.api.AfterAll;
+import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.TestInstance;
+
+@TestInstance()
+class TestBeforeAfter {
+	
+	TestBeforeAfter(){  //constructor  call when obj is created internally
+		System.out.println("TestObj is Created before Test method ");
+	}
+
+	@BeforeAll
+	 static void beforeAll() {  // because static method they can be call before creating instance
+		System.out.println("Before All test");
+	}
+	
+	@AfterAll
+	 static void afterAll() {  // same
+		System.out.println("After All test");
+	}
+	
+	Shape shape;
+	
+	@BeforeEach
+	void Init() {  // this will run before each test case
+		shape = new Shape();
+		System.out.println("Before Test");
+	}
+	
+	
+	@Test
+	void testAreaOfSquare() {
+		assertEquals(576, shape.AreaOfSquare(24));
+		System.out.println("Actual Test runnig");
+	}
+	
+	@Test
+	void testAreaOfCircle() {
+		assertEquals(78.5, shape.AreaOfCircle(5));
+		System.out.println("Actual Test runnig");
+	}
+	@AfterEach
+	void Destroy() {   // this will run after each test case
+		System.out.println("After Test");
+	}
+
+}
+ 

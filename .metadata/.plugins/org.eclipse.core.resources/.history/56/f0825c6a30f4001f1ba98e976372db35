@@ -1,0 +1,15 @@
+package com.Testing.First;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class CalcTest {
+
+	@Test
+	public void test() {
+		int actual
+		assertEquals("java", "java");
+	}
+
+}

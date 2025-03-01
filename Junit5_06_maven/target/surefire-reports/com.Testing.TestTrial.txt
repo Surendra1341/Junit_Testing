@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: com.Testing.TestTrial
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.196 s <<< FAILURE! -- in com.Testing.TestTrial
+com.Testing.TestTrial.testAreaOfCircle -- Time elapsed: 0.114 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: area of circle calculated wrong ==> expected: <78.1> but was: <78.5>
+	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)
+	at org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)
+	at org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:197)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:70)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:925)
+	at com.Testing.TestTrial.testAreaOfCircle(TestTrial.java:21)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at java.util.ArrayList.forEach(ArrayList.java:1259)
+	at java.util.ArrayList.forEach(ArrayList.java:1259)
+

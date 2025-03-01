@@ -1,0 +1,11 @@
+package com.Service;
+
+import com.Course.Course;
+
+public class PurchaseCourse {
+
+	private Course course;
+	public boolean porceedWithCourse(Course course) {
+		return course.coursePurchased()
+	}
+}

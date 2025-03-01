@@ -1,0 +1,19 @@
+package com.Testng;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import java.util.Arrays;
+
+import org.junit.jupiter.api.Test;
+
+class TestingPerformance {
+
+	@Test
+	void test() {
+		public int[] sortingArray(int[] arr) {
+			Arrays.sort(arr);
+			return arr;
+		}
+	}
+
+}

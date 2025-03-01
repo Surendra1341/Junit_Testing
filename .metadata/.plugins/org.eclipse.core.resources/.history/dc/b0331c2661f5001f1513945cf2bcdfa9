@@ -1,0 +1,6 @@
+package com.Course;
+
+public interface Course {
+
+	
+}

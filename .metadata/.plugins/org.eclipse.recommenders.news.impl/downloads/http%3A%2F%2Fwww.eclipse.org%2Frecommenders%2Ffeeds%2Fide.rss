@@ -1,0 +1,1258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5WLCZXC');</script>
+<!-- End Google Tag Manager -->        <meta name="keywords" content="Archived, old, closed, suspended, shutdown, closed"/>
+    <link rel="shortcut icon" href="/eclipse.org-common/themes/solstice/public/images/favicon.ico"/>
+    <title>Archived Projects | The Eclipse Foundation</title>
+    <link rel="preconnect stylesheet" href="https://www.eclipse.org/public/css/astro.css?v=0.1.2"/>
+<meta name="description" content="The Eclipse Foundation - home to a global community, the Eclipse IDE, Jakarta EE and over 415 open source projects, including runtimes, tools and frameworks."/>
+<meta property="og:description" content="The Eclipse Foundation - home to a global community, the Eclipse IDE, Jakarta EE and over 415 open source projects, including runtimes, tools and frameworks."/>
+<meta property="og:image" content="https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-foundation-200x200.png"/>
+<meta property="og:title" content="Archived Projects | The Eclipse Foundation"/>
+<meta property="og:image:width" content="200"/>
+<meta property="og:image:height" content="200"/>
+<meta itemprop="name" content="Archived Projects | The Eclipse Foundation"/>
+<meta itemprop="description" content="The Eclipse Foundation - home to a global community, the Eclipse IDE, Jakarta EE and over 415 open source projects, including runtimes, tools and frameworks."/>
+<meta itemprop="image" content="https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-foundation-400x400.png"/>
+<meta name="twitter:site" content="@EclipseFdn"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Archived Projects | The Eclipse Foundation"/>
+<meta name="twitter:url" content="https://www.eclipse.org/projects/archives.php"/>
+<meta name="twitter:description" content="The Eclipse Foundation - home to a global community, the Eclipse IDE, Jakarta EE and over 415 open source projects, including runtimes, tools and frameworks."/>
+<meta name="twitter:image" content="https://www.eclipse.org/eclipse.org-common/themes/solstice/public/images/logo/eclipse-foundation-400x400.png"/>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="preconnect stylesheet" type="text/css"/>
+    <script> var eclipse_org_common = {"settings":{"cookies_class":{"name":"eclipse_settings","enabled":1}}}</script>  </head>
+  <body id="body_solstice">
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5WLCZXC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->    <a class="sr-only" href="#content">Skip to main content</a>
+    
+<header  class="header-wrapper" id="header">
+  <div class="header-toolbar">
+    <div class="container">
+      <div class="header-toolbar-row">
+        <div class="toolbar-btn toolbar-search-btn dropdown">
+          <button class="dropdown-toggle" id="toolbar-search" type="button" data-toggle="dropdown" tabindex="0">
+            <i class="fa fa-search fa-lg" aria-role="none"></i>
+          </button>
+          <div
+            class="toolbar-search-bar-wrapper dropdown-menu dropdown-menu-right"
+            aria-labelledby="toolbar-search"
+          >
+            <form action="https://www.eclipse.org/home/search" method="get">
+              <div class="search-bar">
+                <input class="search-bar-input" name="q" placeholder="Search" />
+                <button>
+                  <i class="fa fa-search" type="submit"></i>
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+        <div class="toolbar-btn toolbar-user-menu-btn dropdown">
+          <button class="dropdown-toggle" id="toolbar-user-menu" type="button" data-toggle="dropdown" tabindex="0">
+            <i class="fa fa-user fa-lg"></i>
+          </button>
+          <ul class="toolbar-user-menu dropdown-menu dropdown-menu-right text-center"
+            aria-labelledby="toolbar-user-menu">
+                  <li><li><a class="toolbar-link" href="https://accounts.eclipse.org/user/login/?takemeback=https%3A%2F%2Fwww.eclipse.org%2Fprojects%2Farchives.php"><i class="fa fa-sign-in"></i> Log in</a></li></li>
+      <li><a class="toolbar-link toolbar-manage-cookies dropdown-toggle"><i class="fa fa-wrench"></i> Manage Cookies</a></li>          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="header-navbar-wrapper">
+    <div class="container">
+      <div class="header-navbar">
+        <a class="header-navbar-brand" href="https://www.eclipse.org/">
+          <div class="logo-wrapper">
+            <img src="/eclipse.org-common/themes/solstice/public/images/logo/eclipse-foundation-grey-orange.svg" alt="Eclipse Foundation"
+              width="150" />
+          </div>
+        </a>
+        <nav class="header-navbar-nav">
+          <ul class="header-navbar-nav-links">
+                      <li class="navbar-nav-links-item">
+            <button
+              class="nav-link-js btn-link link-unstyled"
+              type="button"
+              aria-expanded="false"
+              data-menu-target="projects-menu"
+            >
+              Projects
+            </button>
+          </li>          <li class="navbar-nav-links-item">
+            <button
+              class="nav-link-js btn-link link-unstyled"
+              type="button"
+              aria-expanded="false"
+              data-menu-target="supporters-menu"
+            >
+              Supporters
+            </button>
+          </li>          <li class="navbar-nav-links-item">
+            <button
+              class="nav-link-js btn-link link-unstyled"
+              type="button"
+              aria-expanded="false"
+              data-menu-target="collaborations-menu"
+            >
+              Collaborations
+            </button>
+          </li>          <li class="navbar-nav-links-item">
+            <button
+              class="nav-link-js btn-link link-unstyled"
+              type="button"
+              aria-expanded="false"
+              data-menu-target="resources-menu"
+            >
+              Resources
+            </button>
+          </li>          <li class="navbar-nav-links-item">
+            <button
+              class="nav-link-js btn-link link-unstyled"
+              type="button"
+              aria-expanded="false"
+              data-menu-target="the-foundation-menu"
+            >
+              The Foundation
+            </button>
+          </li>          </ul>
+        </nav>
+        <div class="header-navbar-end">
+          <div class="float-right hidden-xs" id="btn-call-for-action"><a href="/downloads/" class="btn btn-primary">Download</a></div>          <button class="mobile-menu-btn">
+          <i class="fa fa-bars fa-xl"></i>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <nav class="mobile-menu hidden" aria-expanded="false">
+    <ul>
+              <li class="mobile-menu-dropdown">
+          <a href="#" class="mobile-menu-item mobile-menu-dropdown-toggle" data-target="projects-menu">
+          <span>Projects</span>
+          <i class="fa fa-chevron-down" aria-hidden="true"></i>
+          </a>
+          <div class="mobile-menu-sub-menu-wrapper">
+            <ul class="mobile-menu-sub-menu hidden" id="projects-menu">
+              <li class="mobile-menu-dropdown">
+                <a href="#" data-target="technologies-sub-menu"
+                  class="mobile-menu-item mobile-menu-dropdown-toggle" aria-expanded="false">
+                <span>Technologies</span>
+                <i class="fa fa-chevron-down" aria-hidden="true"></i>
+                </a>
+                <div class="mobile-menu-sub-menu-wrapper">
+                  <ul class="mobile-menu-sub-menu mobile-menu-links-menu hidden"
+                    id="technologies-sub-menu">
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/topics/ide/">Developer Tools &amp; IDEs</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/topics/cloud-native/">Cloud Native</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/topics/edge-and-iot/">Edge &amp; IoT</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/topics/automotive-and-mobility/">Automotive &amp; Mobility</a>
+                    </li>
+                  </ul>
+                </div>
+              </li>
+              <li class="mobile-menu-dropdown">
+                <a href="#" data-target="projects-sub-menu"
+                  class="mobile-menu-item mobile-menu-dropdown-toggle" aria-expanded="false">
+                <span>Projects</span>
+                <i class="fa fa-chevron-down" aria-hidden="true"></i>
+                </a>
+                <div class="mobile-menu-sub-menu-wrapper">
+                  <ul class="mobile-menu-sub-menu mobile-menu-links-menu hidden"
+                    id="projects-sub-menu">
+                    <li>
+                      <a class="mobile-menu-item" href="https://projects.eclipse.org/">Project
+                      Finder</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item"
+                        href="https://www.eclipse.org/projects/project_activity.php">Project
+                      Activity</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/projects/resources/">Project Resources</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item"
+                        href="https://www.eclipse.org/specifications/">Specifications</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item"
+                        href="https://www.eclipse.org/contribute/">Contribute</a>
+                    </li>
+                  </ul>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <li class="mobile-menu-dropdown">
+          <a href="#" class="mobile-menu-item mobile-menu-dropdown-toggle" data-target="supporters-menu">
+          <span>Supporters</span>
+          <i class="fa fa-chevron-down" aria-hidden="true"></i>
+          </a>
+          <div class="mobile-menu-sub-menu-wrapper">
+            <ul class="mobile-menu-sub-menu hidden" id="supporters-menu">
+              <li class="mobile-menu-dropdown">
+                <a href="#" data-target="our-community-sub-menu"
+                  class="mobile-menu-item mobile-menu-dropdown-toggle" aria-expanded="false">
+                <span>Membership</span>
+                <i class="fa fa-chevron-down" aria-hidden="true"></i>
+                </a>
+                <div class="mobile-menu-sub-menu-wrapper">
+                  <ul class="mobile-menu-sub-menu mobile-menu-links-menu hidden"
+                    id="our-community-sub-menu">
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/membership/exploreMembership.php">Our
+                      Members</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item"
+                        href="https://www.eclipse.org/membership/">Member Benefits</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item"
+                        href="https://www.eclipse.org/membership/#tab-levels">Membership Levels &amp;
+                      Fees</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item"
+                      href="https://www.eclipse.org/membership/#tab-membership">Membership
+                      Application</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item"
+                      href="https://www.eclipse.org/membership/#tab-resources">Member Resources</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item"
+                        href="https://membership.eclipse.org/portal">Member Portal</a>
+                    </li>
+                  </ul>
+                </div>
+              </li>
+              <li class="mobile-menu-dropdown">
+                <a href="#" data-target="sponsorship-sub-menu"
+                  class="mobile-menu-item mobile-menu-dropdown-toggle" aria-expanded="false">
+                <span>Sponsorship</span>
+                <i class="fa fa-chevron-down" aria-hidden="true"></i>
+                </a>
+                <div class="mobile-menu-sub-menu-wrapper">
+                  <ul class="mobile-menu-sub-menu mobile-menu-links-menu hidden"
+                    id="sponsorship-sub-menu">
+                    <li>
+                      <a class="mobile-menu-item"
+                        href="https://newsroom.eclipse.org/">Sponsor</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/org/corporate_sponsors/">Corporate Sponsorship</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/sponsor/collaboration/">Sponsor a Collaboration</a>
+                    </li>
+                  </ul>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <li class="mobile-menu-dropdown">
+          <a href="#" class="mobile-menu-item mobile-menu-dropdown-toggle"
+            data-target="collaborations-menu">
+          <span>Collaborations</span>
+          <i class="fa fa-chevron-down" aria-hidden="true"></i>
+          </a>
+          <div class="mobile-menu-sub-menu-wrapper">
+            <ul class="mobile-menu-sub-menu hidden" id="collaborations-menu">
+              <li class="mobile-menu-dropdown">
+                <a href="#" data-target="industry-collaborations-sub-menu"
+                  class="mobile-menu-item mobile-menu-dropdown-toggle" aria-expanded="false">
+                <span>Industry Collaborations</span>
+                <i class="fa fa-chevron-down" aria-hidden="true"></i>
+                </a>
+                <div class="mobile-menu-sub-menu-wrapper">
+                  <ul class="mobile-menu-sub-menu mobile-menu-links-menu hidden"
+                    id="industry-collaborations-sub-menu">
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/collaborations/">About Industry Collaborations</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/org/workinggroups/explore.php">Current Collaborations</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/org/workinggroups/about.php">About Working Groups</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/collaborations/interest-groups/">About Interest Groups</a>
+                    </li>
+                  </ul>
+                </div>
+              </li>
+              <li class="mobile-menu-dropdown">
+                <a href="#" data-target="research-collaborations-sub-menu"
+                  class="mobile-menu-item mobile-menu-dropdown-toggle" aria-expanded="false">
+                <span>Research Collaborations</span>
+                <i class="fa fa-chevron-down" aria-hidden="true"></i>
+                </a>
+                <div class="mobile-menu-sub-menu-wrapper">
+                  <ul class="mobile-menu-sub-menu mobile-menu-links-menu hidden"
+                    id="research-collaborations-sub-menu">
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/research/">Research @ Eclipse</a>
+                    </li>
+                  </ul>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <li class="mobile-menu-dropdown">
+          <a href="#" class="mobile-menu-item mobile-menu-dropdown-toggle" data-target="resources-menu">
+          <span>Resources</span>
+          <i class="fa fa-chevron-down" aria-hidden="true"></i>
+          </a>
+          <div class="mobile-menu-sub-menu-wrapper">
+            <ul class="mobile-menu-sub-menu hidden" id="resources-menu">
+              <li class="mobile-menu-dropdown">
+                <a href="#" data-target="open-source-for-business-sub-menu"
+                  class="mobile-menu-item mobile-menu-dropdown-toggle" aria-expanded="false">
+                <span>Open Source for Business</span>
+                <i class="fa fa-chevron-down" aria-hidden="true"></i>
+                </a>
+                <div class="mobile-menu-sub-menu-wrapper">
+                  <ul class="mobile-menu-sub-menu mobile-menu-links-menu hidden"
+                    id="open-source-for-business-sub-menu">
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/org/value/">Business Value of Open Source</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/os4biz/services/">Professional Services</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/os4biz/ospo/">Open Source Program Offices</a>
+                    </li>
+                  </ul>
+                </div>
+              </li>
+              <li class="mobile-menu-dropdown">
+                <a href="#" data-target="whats-happening-sub-menu"
+                  class="mobile-menu-item mobile-menu-dropdown-toggle" aria-expanded="false">
+                <span>What's Happening</span>
+                <i class="fa fa-chevron-down" aria-hidden="true"></i>
+                </a>
+                <div class="mobile-menu-sub-menu-wrapper">
+                  <ul class="mobile-menu-sub-menu mobile-menu-links-menu hidden"
+                    id="whats-happening-sub-menu">
+                    <li>
+                      <a class="mobile-menu-item" href="https://newsroom.eclipse.org/">News</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://events.eclipse.org/">Events</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/community/eclipse_newsletter/">Newsletter</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://newsroom.eclipse.org/news/press-releases">Press Releases</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/org/foundation/eclipseawards/">Awards & Recognition</a>
+                    </li>
+                  </ul>
+                </div>
+              </li>
+              <li class="mobile-menu-dropdown">
+                <a href="#" data-target="developer-resources-sub-menu"
+                  class="mobile-menu-item mobile-menu-dropdown-toggle" aria-expanded="false">
+                <span>Developer Resources</span>
+                <i class="fa fa-chevron-down" aria-hidden="true"></i>
+                </a>
+                <div class="mobile-menu-sub-menu-wrapper">
+                  <ul class="mobile-menu-sub-menu mobile-menu-links-menu hidden"
+                    id="developer-resources-sub-menu">
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/forums/">Forum</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://accounts.eclipse.org/mailing-list">Mailing Lists</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://blogs.eclipse.org/">Blogs &amp; Videos</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/resources/marketplaces">Marketplaces</a>
+                    </li>
+                  </ul>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <li class="mobile-menu-dropdown">
+          <a href="#" class="mobile-menu-item mobile-menu-dropdown-toggle" data-target="the-foundation-menu">
+          <span>The Foundation</span>
+          <i class="fa fa-chevron-down" aria-hidden="true"></i>
+          </a>
+          <div class="mobile-menu-sub-menu-wrapper">
+            <ul class="mobile-menu-sub-menu hidden" id="the-foundation-menu">
+              <li class="mobile-menu-dropdown">
+                <a href="#" data-target="the-foundation-about-sub-menu"
+                  class="mobile-menu-item mobile-menu-dropdown-toggle" aria-expanded="false">
+                <span>About</span>
+                <i class="fa fa-chevron-down" aria-hidden="true"></i>
+                </a>
+                <div class="mobile-menu-sub-menu-wrapper">
+                  <ul class="mobile-menu-sub-menu mobile-menu-links-menu hidden"
+                    id="the-foundation-about-sub-menu">
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/org/">About the Eclipse Foundation</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/org/governance">Board &amp; Governance</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/org/foundation/staff.php">Staff</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/org/services">Services</a>
+                    </li>
+                  </ul>
+                </div>
+              </li>
+              <li class="mobile-menu-dropdown">
+                <a href="#" data-target="legal-sub-menu"
+                  class="mobile-menu-item mobile-menu-dropdown-toggle" aria-expanded="false"
+                >
+                  <span>Legal</span>
+                  <i class="fa fa-chevron-down" aria-hidden="true"></i>
+                </a>
+                <div class="mobile-menu-sub-menu-wrapper">
+                  <ul class="mobile-menu-sub-menu mobile-menu-links-menu hidden"
+                    id="legal-sub-menu">
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/legal/">Legal Policies</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/legal/privacy.php">Privacy Policy</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/legal/termsofuse.php">Terms of Use</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/legal/compliance/">Compliance</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/legal/epl-2.0/">Eclipse Public License</a>
+                    </li>
+                  </ul>
+                </div>
+              </li>
+              <li class="mobile-menu-dropdown">
+                <a href="#" data-target="more-sub-menu"
+                  class="mobile-menu-item mobile-menu-dropdown-toggle" aria-expanded="false">
+                <span>More</span>
+                <i class="fa fa-chevron-down" aria-hidden="true"></i>
+                </a>
+                <div class="mobile-menu-sub-menu-wrapper">
+                  <ul class="mobile-menu-sub-menu mobile-menu-links-menu hidden"
+                    id="more-sub-menu">
+                    <li>
+                      <a class="mobile-menu-item" href="https://newsroom.eclipse.org/news/press-releases">Press Releases</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/careers/">Careers</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/org/artwork/">Logos &amp; Artwork</a>
+                    </li>
+                    <li>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/org/foundation/contact.php">Contact Us</a>
+                    </li>
+                  </ul>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </li>
+          </ul>
+  </nav>
+      <div class="eclipsefdn-mega-menu">
+      <div class="mega-menu-submenu container hidden" data-menu-id="projects-menu">
+          <div class="mega-menu-submenu-featured-story">
+              <p class="mega-menu-submenu-featured-story-heading">
+                Projects
+              </p>
+              <p class="mega-menu-submenu-featured-story-text">
+                The Eclipse Foundation is home to the Eclipse IDE, Jakarta EE, and hundreds of open source projects,
+                including runtimes, tools, specifications, and frameworks for cloud and edge applications, IoT,
+                AI, automotive, systems engineering, open processor designs, and many others.
+              </p>
+          </div>
+          <div class="mega-menu-submenu-links-section">
+              <div class="mega-menu-submenu-links">
+                  <p class="menu-heading">Technologies</p>
+                  <ul>
+                      <li>
+                          <a href="https://www.eclipse.org/topics/ide/">Developer Tools & IDEs</a>
+                      </li>
+                      <li>
+                          <a href="https://www.eclipse.org/topics/cloud-native/">Cloud Native</a>
+                      </li>
+                      <li>
+                          <a href="https://www.eclipse.org/topics/edge-and-iot/">Edge &amp; IoT</a>
+                      </li>
+                      <li>
+                          <a href="https://www.eclipse.org/topics/automotive-and-mobility/">Automotive &amp; Mobility</a>
+                      </li>
+                  </ul>
+              </div>
+              <div class="mega-menu-submenu-links">
+                  <p class="menu-heading">Projects</p>
+                  <ul>
+                      <li>
+                          <a href="https://projects.eclipse.org/">Project Finder</a>
+                      </li>
+                      <li>
+                          <a href="https://www.eclipse.org/projects/project_activity.php">Project Activity</a>
+                      </li>
+                      <li>
+                          <a href="https://www.eclipse.org/projects/resources/">Project Resources</a>
+                      </li>
+                      <li>
+                          <a href="https://www.eclipse.org/specifications/">Specifications</a>
+                      </li>
+                      <li>
+                          <a href="https://www.eclipse.org/contribute/">Contribute</a>
+                      </li>
+                  </ul>
+              </div>
+          </div>
+          <div class="mega-menu-submenu-ad-wrapper">
+            <div
+              class="eclipsefdn-mega-menu-promo-content mega-menu-promo-content"
+              data-ad-format="ads_square"
+              data-ad-publish-to="eclipse_org_home"
+            >
+            </div>
+          </div>
+      </div>
+      <div class="mega-menu-submenu container hidden" data-menu-id="supporters-menu">
+          <div class="mega-menu-submenu-featured-story">
+              <p class="mega-menu-submenu-featured-story-heading">
+                Supporters
+              </p>
+              <p class="mega-menu-submenu-featured-story-text">
+              The Eclipse Foundation is an international non-profit
+              association supported by our members, including industry
+              leaders who value open source as a key enabler for their
+              business strategies.
+              </p>
+          </div>
+          <div class="mega-menu-submenu-links-section">
+              <div class="mega-menu-submenu-links">
+                  <p class="menu-heading">Membership</p>
+                  <ul>
+                      <li>
+                          <a href="https://www.eclipse.org/membership/exploreMembership.php">Our Members</a>
+                      </li>
+                      <li>
+                          <a href="https://www.eclipse.org/membership/">Member Benefits</a>
+                      </li>
+                      <li>
+                          <a href="https://www.eclipse.org/membership/#tab-levels">Membership Levels &amp;
+                              Fees</a>
+                      </li>
+                      <li>
+                        <a href="https://www.eclipse.org/membership/#tab-membership">Membership Application</a>
+                      </li>
+                      <li>
+                        <a href="https://www.eclipse.org/membership/#tab-resources">Member Resources</a>
+                      </li>
+                      <li>
+                          <a href="https://membership.eclipse.org/portal">Member Portal</a>
+                      </li>
+                  </ul>
+              </div>
+              <div class="mega-menu-submenu-links">
+                  <p class="menu-heading">Sponsorship</p>
+                  <ul>
+                      <li>
+                          <a href="https://www.eclipse.org/sponsor/">Sponsor</a>
+                      </li>
+                      <li>
+                          <a href="https://www.eclipse.org/org/corporate_sponsors/">Corporate Sponsorship</a>
+                      </li>
+                      <li>
+                          <a href="https://www.eclipse.org/sponsor/collaboration/">Sponsor a Collaboration</a>
+                      </li>
+                  </ul>
+              </div>
+          </div>
+          <div class="mega-menu-submenu-ad-wrapper">
+            <div
+              class="eclipsefdn-mega-menu-promo-content mega-menu-promo-content"
+              data-ad-format="ads_square"
+              data-ad-publish-to="eclipse_org_home"
+            >
+            </div>
+          </div>
+      </div>
+      <div class="mega-menu-submenu container hidden" data-menu-id="collaborations-menu">
+          <div class="mega-menu-submenu-featured-story">
+              <p class="mega-menu-submenu-featured-story-heading">
+                Collaborations
+              </p>
+              <p class="mega-menu-submenu-featured-story-text">
+                Whether you intend on contributing to Eclipse technologies
+                that are important to your product strategy, or simply want
+                 to explore a specific innovation area with like-minded organizations,
+                 the Eclipse Foundation is the open source home
+                 for industry collaboration.
+              </p>
+          </div>
+          <div class="mega-menu-submenu-links-section">
+              <div class="mega-menu-submenu-links">
+                  <p class="menu-heading">Industry Collaborations</p>
+                  <ul>
+                      <li>
+                          <a href="https://www.eclipse.org/collaborations/">About Industry Collaborations</a>
+                      </li>
+                      <li>
+                          <a
+                              href="https://www.eclipse.org/org/workinggroups/explore.php">Current
+                              Collaborations</a>
+                      </li>
+                      <li>
+                          <a
+                              href="https://www.eclipse.org/org/workinggroups/about.php">About
+                              Working Groups</a>
+                      </li>
+                      <li>
+                          <a
+                              href="https://www.eclipse.org/collaborations/interest-groups/">About
+                              Interest Groups</a>
+                      </li>
+                  </ul>
+              </div>
+              <div class="mega-menu-submenu-links">
+                  <p class="menu-heading">Research Collaborations</p>
+                  <ul>
+                      <li>
+                          <a href="https://www.eclipse.org/research/">Research @ Eclipse</a>
+                      </li>
+                  </ul>
+              </div>
+          </div>
+          <div class="mega-menu-submenu-ad-wrapper">
+            <div
+              class="eclipsefdn-mega-menu-promo-content mega-menu-promo-content"
+              data-ad-format="ads_square"
+              data-ad-publish-to="eclipse_org_home"
+            >
+            </div>
+          </div>
+      </div>
+      <div class="mega-menu-submenu container hidden" data-menu-id="resources-menu">
+          <div class="mega-menu-submenu-featured-story">
+              <p class="mega-menu-submenu-featured-story-heading">
+                Resources
+              </p>
+              <p class="mega-menu-submenu-featured-story-text">
+                The Eclipse community consists of individual developers and organizations
+                spanning many industries. Stay up to date on our open source community
+                and find resources to support your journey.
+              </p>
+          </div>
+          <div class="mega-menu-submenu-links-section">
+              <div class="mega-menu-submenu-links">
+                  <p class="menu-heading">Open Source for Business</p>
+                  <ul>
+                      <li>
+                          <a href="https://www.eclipse.org/org/value/">Business Value of Open Source</a>
+                      </li>
+                      <li>
+                          <a href="https://www.eclipse.org/os4biz/services/">Professional Services</a>
+                      </li>
+                      <li>
+                          <a href="https://www.eclipse.org/os4biz/ospo/">Open Source Program Offices</a>
+                      </li>
+                  </ul>
+              </div>
+              <div class="mega-menu-submenu-links">
+                  <p class="menu-heading">What's Happening</p>
+                  <ul>
+                      <li>
+                          <a href="https://newsroom.eclipse.org/">News</a>
+                      </li>
+                      <li>
+                          <a href="https://events.eclipse.org/">Events</a>
+                      </li>
+                      <li>
+                          <a href="https://www.eclipse.org/community/eclipse_newsletter">Newsletter</a>
+                      </li>
+                      <li>
+                          <a href="https://newsroom.eclipse.org/news/press-releases">Press Releases</a>
+                      </li>
+                      <li>
+                          <a href="https://www.eclipse.org/org/foundation/eclipseawards/">Awards & Recognition</a>
+                      </li>
+                  </ul>
+              </div>
+              <div class="mega-menu-submenu-links">
+                  <p class="menu-heading">Developer Resources</p>
+                  <ul>
+                      <li>
+                          <a href="https://www.eclipse.org/forums/">Forum</a>
+                      </li>
+                      <li>
+                          <a href="https://accounts.eclipse.org/mailing-list">Mailing Lists</a>
+                      </li>
+                      <li>
+                          <a href="https://blogs.eclipse.org/">Blogs &amp; Videos</a>
+                      </li>
+                      <li>
+                          <a href="https://www.eclipse.org/resources/marketplaces">Marketplaces</a>
+                      </li>
+                  </ul>
+              </div>
+          </div>
+          <div class="mega-menu-submenu-ad-wrapper">
+            <div
+              class="eclipsefdn-mega-menu-promo-content mega-menu-promo-content"
+              data-ad-format="ads_square"
+              data-ad-publish-to="eclipse_org_home"
+            >
+            </div>
+          </div>
+      </div>
+      <div class="mega-menu-submenu container hidden" data-menu-id="the-foundation-menu">
+          <div class="mega-menu-submenu-featured-story">
+              <p class="mega-menu-submenu-featured-story-heading">
+                The Foundation
+              </p>
+              <p class="mega-menu-submenu-featured-story-text">
+              The Eclipse Foundation provides our global community of individuals
+              and organizations with a mature, scalable, and vendor-neutral
+              environment for open source software collaboration and innovation.
+              </p>
+          </div>
+          <div class="mega-menu-submenu-links-section">
+              <div class="mega-menu-submenu-links">
+                  <p class="menu-heading">About</p>
+                  <ul>
+                      <li>
+                          <a href="https://www.eclipse.org/org/">About the Eclipse Foundation</a>
+                      </li>
+                      <li>
+                          <a href="https://www.eclipse.org/org/governance">Board &amp; Governance</a>
+                      </li>
+                      <li>
+                          <a href="https://www.eclipse.org/org/foundation/staff.php">Staff</a>
+                      </li>
+                      <li>
+                          <a href="https://www.eclipse.org/org/services">Services</a>
+                      </li>
+                  </ul>
+              </div>
+              <div class="mega-menu-submenu-links">
+                  <p class="menu-heading">Legal</p>
+                  <ul>
+                      <li>
+                          <a href="https://www.eclipse.org/legal/">Legal Policies</a>
+                      </li>
+                      <li>
+                          <a href="https://www.eclipse.org/legal/privacy.php">Privacy Policy</a>
+                      </li>
+                      <li>
+                          <a href="https://www.eclipse.org/legal/termsofuse.php">Terms of Use</a>
+                      </li>
+                      <li>
+                          <a href="https://www.eclipse.org/legal/compliance/">Compliance</a>
+                      </li>
+                      <li>
+                          <a href="https://www.eclipse.org/legal/epl-2.0/">Eclipse Public License</a>
+                      </li>
+                  </ul>
+              </div>
+              <div class="mega-menu-submenu-links">
+                  <p class="menu-heading">More</p>
+                  <ul>
+                      <li>
+                          <a href="https://newsroom.eclipse.org/news/press-releases">Press Releases</a>
+                      </li>
+                      <li>
+                          <a href="https://www.eclipse.org/careers/">Careers</a>
+                      </li>
+                      <li>
+                          <a href="https://www.eclipse.org/org/artwork/">Logos &amp; Artwork</a>
+                      </li>
+                      <li>
+                          <a href="https://www.eclipse.org/org/foundation/contact.php">Contact Us</a>
+                      </li>
+                  </ul>
+              </div>
+          </div>
+          <div class="mega-menu-submenu-ad-wrapper">
+            <div
+              class="eclipsefdn-mega-menu-promo-content mega-menu-promo-content"
+              data-ad-format="ads_square"
+              data-ad-publish-to="eclipse_org_home"
+            >
+            </div>
+          </div>
+      </div>
+  </div>
+      <style>
+    /* @todo: Add these styles to EFSA */
+    #header .header-toolbar .toolbar-link,
+    #header .header-toolbar-row > .dropdown.open .dropdown-toggle {
+      color: #333;
+    }
+  </style>
+</header>
+    <main  id="content">
+      <div  class="novaContent container" id="novaContent">
+        <div class="row">
+          <div class="col-md-18 main-col-content">
+            <div class="novaContent" id="novaContent">
+              <div class="row">
+                    <section class="default-breadcrumbs hidden-print breadcrumbs-default-margin" id="breadcrumb">
+      <div class="container">
+        <h3 class="sr-only">Breadcrumbs</h3>
+        <div class="row">
+          <div class="col-sm-24"><ol class="breadcrumb"><li><a href="/">Home</a></li><li><a href="https://www.eclipse.org/projects">Projects</a></li><li class="active">Archived Projects</li></ol></div>
+        </div>
+      </div>
+    </section> <!-- /#breadcrumb -->
+              </div>
+              <div class=" main-col-content">
+                
+    <div id="midcolumn">
+	  <h2>Archived Eclipse Projects</h2>
+      <p><h3> You are seeing this because the project you were looking for has been archived.  When projects are archived their available data(ie: downloads,source and website) is collected into a single TGZ file.</h3></p>
+      <p><h4>Please note: The source files (if available) included in these files are direct copies of the available CVS/SVN/GIT data.  For CVS/SVN you will need to load them into a local server to access the history.</h4></p>
+      <p><h4>Please note: Since these files are quite large, the archive locations are not provided as clickable links.</h4></p>
+
+      <div id="homeitem">
+        </br>
+        <style> td { padding: 3px; } </style>
+        <table>
+        <tr><td><b>Project</b></td><td><b>Size</b></td><td><b>Archived</b></td><td><b>URI</b></td></tr>
+        <tr><td>3p project</td><td>11G</td><td>November 2021</td><td>https://archive.eclipse.org/archived_projects/3p.tgz</td></tr>
+        <tr><td>ALF project</td><td>328M</td><td>January 2009</td><td>https://archive.eclipse.org/archived_projects/alf.tgz</td></tr>
+        <tr><td>Albireo project</td><td>1.5M</td><td>January 2011</td><td>https://archive.eclipse.org/archived_projects/albireo.tgz</td></tr>
+        <tr><td>AMP project</td><td>101M</td><td>October 2023</td><td>https://archive.eclipse.org/archived_projects/amp.tgz</td></tr>
+        <tr><td>AM3 project</td><td>7.4M</td><td>November 2012</td><td>https://archive.eclipse.org/archived_projects/am3.tgz</td></tr>
+        <tr><td>Andmore project</td><td>223M</td><td>October 2024</td><td>https://archive.eclipse.org/archived_projects/andmore.tgz</td></tr>
+        <tr><td>Antenna project</td><td>8.5G</td><td>February 2021</td><td>https://archive.eclipse.org/archived_projects/antenna.tgz</td></tr>
+        <tr><td>Aperi project</td><td>1.2G</td><td>March 2009</td><td>https://archive.eclipse.org/archived_projects/aperi.tgz</td></tr>
+        <tr><td>Apricot project</td><td>3.5M</td><td>August 2019</td><td>https://archive.eclipse.org/archived_projects/apricot.tgz</td></tr>
+        <tr><td>Apogee project</td><td>573K</td><td>January 2011</td><td>https://archive.eclipse.org/archived_projects/apogee.tgz</td></tr>
+        <tr><td>Apogy project</td><td>2.9G</td><td>October 2023</td><td>https://archive.eclipse.org/archived_projects/apogy.tgz</td></tr>
+        <tr><td>ATF project</td><td>508M</td><td>May 2020</td><td>https://archive.eclipse.org/archived_projects/atf.tgz</td></tr>
+        <tr><td>Athena project</td><td>2.4G</td><td>January 2012</td><td>https://archive.eclipse.org/archived_projects/athena.tgz</td></tr>
+        <tr><td>AMW project</td><td>9.4M</td><td>March 2015</td><td>https://archive.eclipse.org/archived_projects/amw.tgz</td></tr>
+        <tr><td>Avsys project</td><td>27K</td><td>February 2022</td><td>https://archive.eclipse.org/archived_projects/avsys.tgz</td></tr>
+        <tr><td>BFB project</td><td>26K</td><td>November 2023.</td><td>https://archive.eclipse.org/archived_projects/bfb.tgz</td></tr>
+        <tr><td>BridgeIoT project</td><td>642K</td><td>February 2022.</td><td>https://archive.eclipse.org/archived_projects/bridgeiot.tgz</td></tr>
+        <tr><td>DSDP Blinki project</td><td>14k</td><td>October 2010.</td><td>https://archive.eclipse.org/archived_projects/blinki.tgz</td></tr>
+        <tr><td>BPEL project</td><td>673M</td><td>October 2022</td><td>https://archive.eclipse.org/archived_projects/bpel.tgz</td></tr>
+        <tr><td>BPMN project</td><td>4.3M</td><td>January 2012</td><td>https://archive.eclipse.org/archived_projects/bpmn.tgz</td></tr>
+        <tr><td>BPMN2 project</td><td>139M</td><td>January 2025</td><td>https://archive.eclipse.org/archived_projects/bpmn2.tgz</td></tr>
+        <tr><td>Buckminster project</td><td>515M</td><td>February 2019</td><td>https://archive.eclipse.org/archived_projects/buckminster.tgz</td></tr>
+        <tr><td>CAMF project</td><td>2.3M</td><td>October 2023</td><td>https://archive.eclipse.org/archived_projects/camf.tgz</td></tr>
+        <tr><td>CDTK project</td><td>218K</td><td>January 2012</td><td>https://archive.eclipse.org/archived_projects/cdtk.tgz</td></tr>
+        <tr><td>Ceylon project</td><td>460M</td><td>April 2023</td><td>https://archive.eclipse.org/archived_projects/ceylon.tgz</td></tr>
+        <tr><td>Codewind project</td><td>49G</td><td>November 2022</td><td>https://archive.eclipse.org/archived_projects/codewind.tgz</td></tr>
+        <tr><td>Corona project</td><td>475M</td><td>April 2010</td><td>https://archive.eclipse.org/archived_projects/corona.tgz</td></tr>
+        <tr><td>Cosmos project</td><td>4.3G</td><td>January 2012</td><td>https://archive.eclipse.org/archived_projects/cosmos.tgz</td></tr>
+        <tr><td>Cobol project</td><td>132M</td><td>February 2010</td><td>https://archive.eclipse.org/archived_projects/cobol.tgz</td></tr>
+        <tr><td>Concierge project</td><td>63M</td><td>November 2022</td><td>https://archive.eclipse.org/archived_projects/concierge.tgz</td></tr>
+        <tr><td>Damos project</td><td>7M</td><td>February 2019</td><td>https://archive.eclipse.org/archived_projects/damos.tgz</td></tr>
+        <tr><td>DataEggs project</td><td>1.2G</td><td>January 2023</td><td>https://archive.eclipse.org/archived_projects/dataeggs.tgz</td></tr>
+        <tr><td>Dawnsci project</td><td>208M</td><td>February 2025</td><td>https://archive.eclipse.org/archived_projects/dawnsci.tgz</td></tr>
+        <tr><td>DSDP DD project</td><td>1.7G</td><td>October 2010.</td><td>https://archive.eclipse.org/archived_projects/dd.tgz</td></tr>
+        <tr><td>DSDP project</td><td>6.8G</td><td>September 2011.</td><td>https://archive.eclipse.org/archived_projects/dsdp.tgz</td></tr>
+        <tr><td>Doc2Model project</td><td>152K</td><td>January 2015.</td><td>https://archive.eclipse.org/archived_projects/doc2model.tgz</td></tr>
+        <tr><td>Duttile project</td><td>74M</td><td>July 2024.</td><td>https://archive.eclipse.org/archived_projects/duttile.tgz</td></tr>
+        <tr><td>E4 project</td><td>73M</td><td>January 2024</td><td>https://archive.eclipse.org/archived_projects/e4.tgz</td></tr>
+        <tr><td>Modeling EATop project</td><td>524M</td><td>March 2021</td><td>https://archive.eclipse.org/archived_projects/eatop.tgz</td></tr>
+        <tr><td>RT EBR project</td><td>8.4M</td><td>February 2023</td><td>https://archive.eclipse.org/archived_projects/ebr.tgz</td></tr>
+        <tr><td>IOT Edje project</td><td>14K</td><td>November 2018</td><td>https://archive.eclipse.org/archived_projects/edje.tgz</td></tr>
+        <tr><td>ESL project</td><td>77M</td><td>January 2012</td><td>https://archive.eclipse.org/archived_projects/esl.tgz</td></tr>
+        <tr><td>EMFindex project</td><td>555K</td><td>July 2012</td><td>https://archive.eclipse.org/archived_projects/emfindex.tgz</td></tr>
+        <tr><td>Polarsys EPLMP project</td><td>4.5M</td><td>December 2021</td><td>https://archive.eclipse.org/archived_projects/eplmp.tgz</td></tr>
+        <tr><td>ERCP project</td><td>719M</td><td>December 2012</td><td>https://archive.eclipse.org/archived_projects/ercp.tgz</td></tr>
+        <tr><td>Examples project</td><td>68M</td><td>January 2014</td><td>https://archive.eclipse.org/archived_projects/examples.tgz</td></tr>
+        <tr><td>EMF Facet project</td><td>1.1G</td><td>May 2020</td><td>https://archive.eclipse.org/archived_projects/emf-facet.tgz</td></tr>
+        <tr><td>EPF project</td><td>6.3G</td><td>February 2023</td><td>https://archive.eclipse.org/archived_projects/epf.tgz</td></tr>
+        <tr><td>Featuremodel project</td><td>4.1M</td><td>March 2015</td><td>https://archive.eclipse.org/archived_projects/featuremodel.tgz</td></tr>
+        <tr><td>Flux project</td><td>205M</td><td>February 2019</td><td>https://archive.eclipse.org/archived_projects/flux.tgz</td></tr>
+        <tr><td>FMC project</td><td>11M</td><td>June 2022</td><td>https://archive.eclipse.org/archived_projects/fmc.tgz</td></tr>
+        <tr><td>Fproj project</td><td>931K</td><td>January 2012</td><td>https://archive.eclipse.org/archived_projects/fproj.tgz</td></tr>
+        <tr><td>Ganomatic project</td><td>23K</td><td>January 2012</td><td>https://archive.eclipse.org/archived_projects/ganomatic.tgz</td></tr>
+        <tr><td>Gems project</td><td>31M</td><td>January 2015</td><td>https://archive.eclipse.org/archived_projects/gems.tgz</td></tr>
+        <tr><td>GeoBench project</td><td>120B</td><td>March 2021</td><td>https://archive.eclipse.org/archived_projects/geobench.tgz</td></tr>
+        <tr><td>GeoPeril project</td><td>117M</td><td>November 2023</td><td>https://archive.eclipse.org/archived_projects/geoperil.tgz</td></tr>
+        <tr><td>Glassfish-tools project</td><td>26M</td><td>November 2021</td><td>https://archive.eclipse.org/archived_projects/glassfish-tools.tgz</td></tr>
+        <tr><td>Glimmer project</td><td>1.5M</td><td>January 2011</td><td>https://archive.eclipse.org/archived_projects/glimmer.tgz</td></tr>
+        <tr><td>g-Eclipse project</td><td>236M</td><td>January 2014</td><td>https://archive.eclipse.org/archived_projects/g-eclipse.tgz</td></tr>
+        <tr><td>GEF 3D project</td><td>2.7M</td><td>March 2021</td><td>https://archive.eclipse.org/archived_projects/gef3d.tgz</td></tr>
+        <tr><td>GMF Tooling project</td><td>8.1G</td><td>September 2023</td><td>https://archive.eclipse.org/archived_projects/gmf-tooling.tgz</td></tr>
+        <tr><td>Golo project</td><td>15M</td><td>September 2022</td><td>https://archive.eclipse.org/archived_projects/golo.tgz</td></tr>
+        <tr><td>gyrex project</td><td>2.9G</td><td>March 2018</td><td>https://archive.eclipse.org/archived_projects/gyrex.tgz</td></tr>
+        <tr><td>Hibachi project</td><td>31M</td><td>January 2011</td><td>https://archive.eclipse.org/archived_projects/hibachi.tgz</td></tr>
+        <tr><td>Hip project</td><td>9M</td><td>August 2019</td><td>https://archive.eclipse.org/archived_projects/hip.tgz</td></tr>
+        <tr><td>Higgins project</td><td>3.2G</td><td>April 2017</td><td>https://archive.eclipse.org/archived_projects/higgins.tgz</td></tr>
+        <tr><td>Hudson project</td><td>403M</td><td>February 2021</td><td>https://archive.eclipse.org/archived_projects/hudson.tgz</td></tr>
+        <tr><td>Iam project</td><td>40M</td><td>January 2012</td><td>https://archive.eclipse.org/archived_projects/iam.tgz</td></tr>
+        <tr><td>Ignite project</td><td>24K</td><td>November 2021</td><td>https://archive.eclipse.org/archived_projects/ignite.tgz</td></tr>
+        <tr><td>Incquery project</td><td>1.7G</td><td>February 2016</td><td>https://archive.eclipse.org/archived_projects/incquery.tgz</td></tr>
+        <tr><td>IMM project</td><td>636B</td><td>January 2015</td><td>https://archive.eclipse.org/archived_projects/imm.tgz</td></tr>
+        <tr><td>IDE4EDU project</td><td>204M</td><td>January 2014</td><td>https://archive.eclipse.org/archived_projects/ide4edu.tgz</td></tr>
+        <tr><td>Imp project</td><td>647M</td><td>January 2014</td><td>https://archive.eclipse.org/archived_projects/imp.tgz</td></tr>
+        <tr><td>Java-ee-config project</td><td>1.6M</td><td>July 2018</td><td>https://archive.eclipse.org/archived_projects/java-ee-config.tgz</td></tr>
+        <tr><td>JCRM project</td><td>938K</td><td>July 2013.</td><td>https://archive.eclipse.org/archived_projects/jcrm.tgz</td></tr>
+        <tr><td>Jemo project</td><td>26M</td><td>October 2023</td><td>https://archive.eclipse.org/archived_projects/jemo.tgz</td></tr>
+        <tr><td>JET project</td><td>288M</td><td>May 2020.</td><td>https://archive.eclipse.org/archived_projects/jet.tgz</td></tr>
+        <tr><td>Js4emf project</td><td>5.7M</td><td>January 2015.</td><td>https://archive.eclipse.org/archived_projects/js4emf.tgz</td></tr>
+        <tr><td>Jubula project</td><td>6.2G</td><td>October 2023</td><td>https://archive.eclipse.org/archived_projects/jubula.tgz</td></tr>
+        <tr><td>Koi project</td><td></td><td>April 2006</td><td>https://archive.eclipse.org/archived_projects/koi-project.tar.gz</td></tr>
+        <tr><td>Kiso project</td><td>5.3M</td><td>July 2021</td><td>https://archive.eclipse.org/archived_projects/kiso.tar.gz</td></tr>
+        <tr><td>Koneki project</td><td>1.6G</td><td>September 2015</td><td>https://archive.eclipse.org/archived_projects/koneki.tgz</td></tr>
+        <tr><td>Kepler project</td><td>2K</td><td>July 2008</td><td>https://archive.eclipse.org/archived_projects/kepler.tgz</td></tr>
+        <tr><td>Krikkit project</td><td>4.4M</td><td>October 2017</td><td>https://archive.eclipse.org/archived_projects/krikkit.tgz</td></tr>
+        <tr><td>Laszlo project</td><td>27M</td><td>December 2006</td><td>https://archive.eclipse.org/archived_projects/laszlo-project.tar.gz</td></tr>
+        <tr><td>Lepido project</td><td>8.9M</td><td>June 2006</td><td>https://archive.eclipse.org/archived_projects/lepido-project.tar.gz</td></tr>
+        <tr><td>Libra project</td><td>87M</td><td>February 2022</td><td>https://archive.eclipse.org/archived_projects/libra.tar.gz</td></tr>
+        <tr><td>Mangrove project</td><td>1.3M</td><td>October 2023</td><td>https://archive.eclipse.org/archived_projects/mangrove.tgz</td></tr>
+        <tr><td>Maynstall project</td><td>2.8M</td><td>January 2011</td><td>https://archive.eclipse.org/archived_projects/maynstall.tgz</td></tr>
+        <tr><td>MDDi project</td><td>242M</td><td>August 2008.</td><td>https://archive.eclipse.org/archived_projects/mddi-archive.tar.gz</td></tr>
+        <tr><td>Mihini project</td><td>31M</td><td>September 2015</td><td>https://archive.eclipse.org/archived_projects/mihini.tgz</td></tr>
+        <tr><td>Mint project</td><td>40M</td><td>November 2012.</td><td>https://archive.eclipse.org/archived_projects/mint.tgz</td></tr>
+        <tr><td>MDT EODM project</td><td>13M</td><td>October 2008.</td><td>https://archive.eclipse.org/archived_projects/modeling.mdt.eodm.tgz</td></tr>
+        <tr><td>Modeling PMF project</td><td>43M</td><td>September 2019.</td><td>https://archive.eclipse.org/archived_projects/modeling.pmf.tgz</td></tr>
+        <tr><td>Mofscript project</td><td>50M</td><td>November 2012.</td><td>https://archive.eclipse.org/archived_projects/mofscript.tgz</td></tr>
+        <tr><td>MDT MST project</td><td>8.8K</td><td>November 2012.</td><td>https://archive.eclipse.org/archived_projects/mst.tgz</td></tr>
+        <tr><td>MTF project</td><td>2.7M</td><td>November 2012.</td><td>https://archive.eclipse.org/archived_projects/mtf.tgz</td></tr>
+        <tr><td>MTJ project</td><td>2.4G</td><td>October 2023.</td><td>https://archive.eclipse.org/archived_projects/mtj.tgz</td></tr>
+        <tr><td>MXF project</td><td>9.9K</td><td>November 2012.</td><td>https://archive.eclipse.org/archived_projects/mxf.tgz</td></tr>
+        <tr><td>DSDP Nab project</td><td>62M</td><td>October 2010.</td><td>https://archive.eclipse.org/archived_projects/nab.tgz</td></tr>
+        <tr><td>EMF4Net project</td><td>4.7M</td><td>January 2015.</td><td>https://archive.eclipse.org/archived_projects/emf4net.tgz</td></tr>
+        <tr><td>Net4J project</td><td>94M</td><td>June 2010.</td><td>https://archive.eclipse.org/archived_projects/net4j.tgz</td></tr>
+        <tr><td>OHF project</td><td>5.4G</td><td>January 2012</td><td>https://archive.eclipse.org/archived_projects/ohf.tgz</td></tr>
+        <tr><td>OFMP project</td><td>26M</td><td>January 2012</td><td>https://archive.eclipse.org/archived_projects/ofmp.tgz</td></tr>
+        <tr><td>OGEE project</td><td>39M</td><td>October 2023</td><td>https://archive.eclipse.org/archived_projects/ogee.tgz</td></tr>
+        <tr><td>OMELET project</td><td>3M</td><td>August 2005</td><td>https://archive.eclipse.org/archived_projects/omelet-project.tar.gz</td></tr>
+        <tr><td>Openk-platform project</td><td>40M</td><td>November 2021</td><td>https://archive.eclipse.org/archived_projects/openk-platform.tgz</td></tr>
+        <tr><td>Orion project</td><td>90G</td><td>October 2023</td><td>https://archive.eclipse.org/archived_projects/orion.tgz</td></tr>
+        <tr><td>Ormf project</td><td>542M</td><td>January 2011</td><td>https://archive.eclipse.org/archived_projects/ormf.tgz</td></tr>
+        <tr><td>Package-drone project</td><td>2.5G</td><td>March 2021</td><td>https://archive.eclipse.org/archived_projects/package-drone.tgz</td></tr>
+        <tr><td>Papyrus-RT project</td><td>3.9G</td><td>January 2025</td><td>https://archive.eclipse.org/archived_projects/papyrus-rt.tgz</td></tr>
+        <tr><td>Papyrus-xtuml project</td><td>25K</td><td>September 2019</td><td>https://archive.eclipse.org/archived_projects/papyrus-xtuml.tgz</td></tr>
+        <tr><td>Pave project</td><td>1.7M</td><td>December 2012</td><td>https://archive.eclipse.org/archived_projects/pave.tgz</td></tr>
+        <tr><td>Phizog project</td><td>27K</td><td>February 2022 </td><td>https://archive.eclipse.org/archived_projects/phizog.tgz</td></tr>
+        <tr><td>Phoenix project</td><td>3.3G</td><td>February 2013 </td><td>https://archive.eclipse.org/archived_projects/phoenix.tgz</td></tr>
+        <tr><td>Picasso project</td><td>25K</td><td>May 2019 </td><td>https://archive.eclipse.org/archived_projects/picasso.tgz</td></tr>
+        <tr><td>PMF project</td><td>6.3M</td><td>January 2013.</td><td>https://archive.eclipse.org/archived_projects/pmf.tgz</td></tr>
+        <tr><td>Polinate project</td><td>155M</td><td>December 2005</td><td>https://archive.eclipse.org/archived_projects/pollinate-project.tar.gz</td></tr>
+        <tr><td>Ponte project</td><td>400K</td><td>March 2021</td><td>https://archive.eclipse.org/archived_projects/ponte.tgz</td></tr>
+        <tr><td>Pop project</td><td>4.1G</td><td>February 2018</td><td>https://archive.eclipse.org/archived_projects/pop.tgz</td></tr>
+        <tr><td>EMF Query2 project</td><td>40M</td><td>May 2013.</td><td>https://archive.eclipse.org/archived_projects/query2.tgz</td></tr>
+        <tr><td>Rat project</td><td>211K</td><td>May 2012</td><td>https://archive.eclipse.org/archived_projects/rat.tgz</td></tr>
+        <tr><td>Recommenders project</td><td>9.7G</td><td>July 2019</td><td>https://archive.eclipse.org/archived_projects/recommenders.tgz</td></tr>
+        <tr><td>Recommenders incubator project</td><td>440M</td><td>October 2019 </td><td>https://archive.eclipse.org/archived_projects/recommenders.incubator.tgz</td></tr>
+        <tr><td>Reddeer project</td><td>19G</td><td>December 2024 </td><td>https://archive.eclipse.org/archived_projects/reddeer.tgz</td></tr>
+        <tr><td>Refactor project</td><td>92M</td><td>January 2025 </td><td>https://archive.eclipse.org/archived_projects/refactor.tgz</td></tr>
+        <tr><td>Riena project</td><td>1.2G</td><td>October 2024</td><td>https://archive.eclipse.org/archived_projects/riena.tgz</td></tr>
+        <tr><td>Remus project</td><td>9.3M</td><td>May 2020</td><td>https://archive.eclipse.org/archived_projects/remus.tgz</td></tr>
+        <tr><td>Risev2g project</td><td>14K</td><td>January 2019</td><td>https://archive.eclipse.org/archived_projects/risev2g.tgz</td></tr>
+        <tr><td>Packaging RTP project</td><td>2.4G</td><td>March 2021</td><td>https://archive.eclipse.org/archived_projects/rtp.tgz</td></tr>
+        <tr><td>Packaging RTSC project</td><td>27M</td><td>October 2023</td><td>https://archive.eclipse.org/archived_projects/rtsc.tgz</td></tr>
+        <tr><td>Sapphire project</td><td>1.1G</td><td>November 2021.</td><td>https://archive.eclipse.org/archived_projects/sapphire.tgz</td></tr>
+        <tr><td>SBVR project</td><td>633K</td><td>July 2013.</td><td>https://archive.eclipse.org/archived_projects/sbvr.tgz</td></tr>
+        <tr><td>SCADA project</td><td>91G</td><td>March 2021.</td><td>https://archive.eclipse.org/archived_projects/eclipsescada.tgz</td></tr>
+        <tr><td>SDO project</td><td>1.5M</td><td>July 2013.</td><td>https://archive.eclipse.org/archived_projects/sdo.tgz</td></tr>
+        <tr><td>Servus project</td><td>533K</td><td>November 2012.</td><td>https://archive.eclipse.org/archived_projects/servus.tgz</td></tr>
+        <tr><td>Search project</td><td>21M</td><td>July 2013.</td><td>https://archive.eclipse.org/archived_projects/search.tgz</td></tr>
+        <tr><td>Secoblocks project</td><td>16K</td><td>November 2022.</td><td>https://archive.eclipse.org/archived_projects/secoblocks.tgz</td></tr>
+        <tr><td>Skalli project</td><td>6.1M</td><td>October 2022.</td><td>https://archive.eclipse.org/archived_projects/skalli.tgz</td></tr>
+        <tr><td>Skills project</td><td>3.8M</td><td>October 2023.</td><td>https://archive.eclipse.org/archived_projects/skills.tgz</td></tr>
+        <tr><td>Sketch project</td><td>410M</td><td>January 2014.</td><td>https://archive.eclipse.org/archived_projects/sketch.tgz</td></tr>
+        <tr><td>SOC project</td><td>48K</td><td>January 2011</td><td>https://archive.eclipse.org/archived_projects/soc.tgz</td></tr>
+        <tr><td>Spaces project</td><td>23M</td><td>January 2011</td><td>https://archive.eclipse.org/archived_projects/spaces.tgz</td></tr>
+        <tr><td>Scalamodules project</td><td>716K</td><td>July 2010</td><td>https://archive.eclipse.org/archived_projects/scalamodules.tgz</td></tr>
+        <tr><td>Smarthome project</td><td>1.2G</td><td>May 2020</td><td>https://archive.eclipse.org/archived_projects/smarthome.tgz</td></tr>
+        <tr><td>Smartmdsd project</td><td>7.3G</td><td>February 2025</td><td>https://archive.eclipse.org/archived_projects/smartmdsd.tgz</td></tr>
+        <tr><td>SMILA project</td><td>5.7G</td><td>July 2022</td><td>https://archive.eclipse.org/archived_projects/smila.tgz</td></tr>
+        <tr><td>Stellation project</td><td>110M</td><td>June 2005 </td><td>https://archive.eclipse.org/archived_projects/stellation-project.tar.gz</td></tr>
+        <tr><td>Stardust project</td><td>18G</td><td>November 2017 </td><td>https://archive.eclipse.org/archived_projects/stardust.tgz</td></tr>
+        <tr><td>Stem project</td><td>23G</td><td>July 2024 </td><td>https://archive.eclipse.org/archived_projects/stem.tgz</td></tr>
+        <tr><td>STP project</td><td>2.3G</td><td>September 2012 </td><td>https://archive.eclipse.org/archived_projects/stp.tgz</td></tr>
+        <tr><td>Swordfish project</td><td>625M</td><td>January 2014 </td><td>https://archive.eclipse.org/archived_projects/swordfish.tgz</td></tr>
+        <tr><td>Systemfocus project</td><td>1.8M</td><td>December 2021 </td><td>https://archive.eclipse.org/archived_projects/systemfocus.tgz</td></tr>
+        <tr><td>Tangle ID project</td><td>16K</td><td>February 2022.</td><td>https://archive.eclipse.org/archived_projects/tangleid.tgz</td></tr>
+        <tr><td>Tangle Marketplaces project</td><td>16K</td><td>February 2022.</td><td>https://archive.eclipse.org/archived_projects/tanglemktplaces.tgz</td></tr>
+        <tr><td>EMFT Texo project</td><td>174M</td><td>September 2023 </td><td>https://archive.eclipse.org/archived_projects/texo.tgz</td></tr>
+        <tr><td>TCS project</td><td>6.7K</td><td>November 2012.</td><td>https://archive.eclipse.org/archived_projects/tcs.tgz</td></tr>
+        <tr><td>Temporality project</td><td>2.9M</td><td>November 2012.</td><td>https://archive.eclipse.org/archived_projects/temporality.tgz</td></tr>
+        <tr><td>Thym project</td><td>289M</td><td>June 2022.</td><td>https://archive.eclipse.org/archived_projects/thym.tgz</td></tr>
+        <tr><td>Tigerstripe project</td><td>6.2G</td><td>October 2023.</td><td>https://archive.eclipse.org/archived_projects/tigerstripe.tgz</td></tr>
+        <tr><td>TMW project</td><td>996K</td><td>March 2012 </td><td>https://archive.eclipse.org/archived_projects/tmw.tgz</td></tr>
+        <tr><td>TPTP Monitoring project</td><td>63M</td><td>June 2010 </td><td>https://archive.eclipse.org/archived_projects/tptp.monitoring.tgz</td></tr>
+        <tr><td>TPTP project</td><td>44G</td><td>May 2016  </td><td>https://archive.eclipse.org/archived_projects/tptp.tgz</td></tr>
+        <tr><td>Triquetrum project</td><td>6.5M</td><td>Oct 2021  </td><td>https://archive.eclipse.org/archived_projects/triquetrum.tgz</td></tr>
+        <tr><td>UMLGen project</td><td>603M</td><td>March 2021 </td><td>https://archive.eclipse.org/archived_projects/umlgen.tgz</td></tr>
+        <tr><td>Umlx project</td><td>27M</td><td>December 2012 </td><td>https://archive.eclipse.org/archived_projects/umlx.tgz</td></tr>
+        <tr><td>UFacekit project</td><td>35M</td><td>March 2014 </td><td>https://archive.eclipse.org/archived_projects/ufacekit.tgz</td></tr>
+        <tr><td>Unide project</td><td>2.8M</td><td>October 2023</td><td>https://archive.eclipse.org/archived_projects/unide.tgz</td></tr>
+        <tr><td>UPR project</td><td>4.7M</td><td>October 2023</td><td>https://archive.eclipse.org/archived_projects/upr.tgz</td></tr>
+        <tr><td>Visual editor project</td><td>418M</td><td>June 2011 </td><td>https://archive.eclipse.org/archived_projects/ve.tgz</td></tr>
+        <tr><td>Mylyn VEX project</td><td>42M</td><td>February 2024 </td><td>https://archive.eclipse.org/archived_projects/vex.tgz</td></tr>
+        <tr><td>Voice Tools project</td><td>731M</td><td>May 2016 </td><td>https://archive.eclipse.org/archived_projects/vtp.tgz</td></tr>
+        <tr><td>Whiskers project</td><td>91K</td><td>January 2019 </td><td>https://archive.eclipse.org/archived_projects/whiskers.tgz</td></tr>
+        <tr><td>Woolsey project</td><td>1.1M</td><td>December 2012 </td><td>https://archive.eclipse.org/archived_projects/woolsey.tgz</td></tr>
+        <tr><td>WTP Datatools project</td><td>7.1M</td><td>February 2013 </td><td>https://archive.eclipse.org/archived_projects/wtp.datatools.tgz</td></tr>
+        <tr><td>WTP Incubator project</td><td>21M</td><td>November 2021 </td><td>https://archive.eclipse.org/archived_projects/webtools.incubator.tgz</td></tr>
+        <tr><td>Xtend project</td><td>86M</td><td>June 2013 </td><td>https://archive.eclipse.org/archived_projects/xtend.tgz</td></tr>
+        </table>
+	  </div>
+	</div>
+
+
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 main-col-sidebar-nav"><aside  class="main-sidebar-default-margin" id="main-sidebar">
+  <ul class="ul-left-nav" id="leftnav" role="tablist" aria-multiselectable="true">
+                        <li class="main-sidebar-main-item main-sidebar-item-indented separator">
+          <a 
+            class="main-sidebar-heading link-unstyled"
+                          href=""
+                      >
+            Committers          </a>
+        </li>
+                              <li class="main-sidebar-item main-sidebar-item-indented">
+          <a class="link-unstyled" href="/projects/training">
+            Committer Training          </a>
+        </li>
+                              <li class="main-sidebar-item main-sidebar-item-indented">
+          <a class="link-unstyled" href="/projects/handbook">
+            Project Handbook          </a>
+        </li>
+                              <li class="main-sidebar-item main-sidebar-item-indented">
+          <a class="link-unstyled" href="/projects/calendar#office-hours">
+            Office Hours          </a>
+        </li>
+                              <li class="main-sidebar-main-item main-sidebar-item-indented separator">
+          <a 
+            class="main-sidebar-heading link-unstyled"
+                          href=""
+                      >
+            Projects          </a>
+        </li>
+                              <li class="main-sidebar-item main-sidebar-item-indented">
+          <a class="link-unstyled" href="/projects">
+            Projects Home          </a>
+        </li>
+                              <li class="main-sidebar-item main-sidebar-item-indented">
+          <a class="link-unstyled" href="/projects/dev_process">
+            Development Process          </a>
+        </li>
+                              <li class="main-sidebar-item main-sidebar-item-indented">
+          <a class="link-unstyled" href="/projects/project_activity.php">
+            Activity          </a>
+        </li>
+                              <li class="main-sidebar-item main-sidebar-item-indented">
+          <a class="link-unstyled" href="https://projects.eclipse.org">
+            Search Projects          </a>
+        </li>
+                              <li class="main-sidebar-main-item main-sidebar-item-indented separator">
+          <a 
+            class="main-sidebar-heading link-unstyled"
+                      >
+            Specifications          </a>
+        </li>
+                              <li class="main-sidebar-item main-sidebar-item-indented">
+          <a class="link-unstyled" href="/specifications/">
+            Specifications Home          </a>
+        </li>
+                              <li class="main-sidebar-item main-sidebar-item-indented">
+          <a class="link-unstyled" href="/projects/efsp">
+            Specification Process          </a>
+        </li>
+                              <li class="main-sidebar-item main-sidebar-item-indented">
+          <a class="link-unstyled" href="/projects/efsp/operations.php">
+            Operations Guide          </a>
+        </li>
+                              <li class="main-sidebar-item main-sidebar-item-indented">
+          <a class="link-unstyled" href="/projects/efsp/ip-flows.php">
+            IP Flows          </a>
+        </li>
+                              <li class="main-sidebar-main-item main-sidebar-item-indented separator">
+          <a 
+            class="main-sidebar-heading link-unstyled"
+                      >
+            Legal          </a>
+        </li>
+                              <li class="main-sidebar-item main-sidebar-item-indented">
+          <a class="link-unstyled" href="/legal/">
+            Legal Home          </a>
+        </li>
+                              <li class="main-sidebar-item main-sidebar-item-indented">
+          <a class="link-unstyled" href="/org/documents/Eclipse_IP_Policy.pdf">
+            Intellectual Property Policy          </a>
+        </li>
+                              <li class="main-sidebar-item main-sidebar-item-indented">
+          <a class="link-unstyled" href="/legal/ECA.php">
+            Contributor Agreement          </a>
+        </li>
+                              <li class="main-sidebar-item main-sidebar-item-indented">
+          <a class="link-unstyled" href="/legal/epl-2.0">
+            EPL-2.0          </a>
+        </li>
+                              <li class="main-sidebar-main-item main-sidebar-item-indented separator">
+          <a 
+            class="main-sidebar-heading link-unstyled"
+                      >
+            Collaborations          </a>
+        </li>
+                              <li class="main-sidebar-item main-sidebar-item-indented">
+          <a class="link-unstyled" href="/collaborations">
+            Industry Collaborations Home          </a>
+        </li>
+                              <li class="main-sidebar-item main-sidebar-item-indented">
+          <a class="link-unstyled" href="/org/workinggroups/industry_wg_process.php">
+            Working Group Process          </a>
+        </li>
+                              <li class="main-sidebar-item main-sidebar-item-indented">
+          <a class="link-unstyled" href="/org/workinggroups/operations.php">
+            Operations Guide          </a>
+        </li>
+                </aside>
+  </div>
+        </div>
+      </div>
+    </main><p id="back-to-top">
+  <a class="visible-xs" href="#top">Back to the top</a>
+</p>
+  <div class="eclipsefdn-featured-footer featured-footer" data-publish-target="eclipse_org"><div class="container featured-container"></div></div><footer id="footer">
+  <div class="container">
+    <div class="footer-sections row equal-height-md font-bold">
+      <div id="footer-eclipse-foundation" class="footer-section col-md-5 col-sm-8">
+              <div class="menu-heading">Eclipse Foundation</div>
+      <ul class="nav">
+        <ul class="nav"><li><a href="https://www.eclipse.org/org/">About</a></li><li><a href="https://projects.eclipse.org/">Projects</a></li><li><a href="https://www.eclipse.org/collaborations/">Collaborations</a></li><li><a href="https://www.eclipse.org/membership/">Membership</a></li><li><a href="https://www.eclipse.org/sponsor/">Sponsor</a></li></ul>
+      </ul>      </div>
+      <div id="footer-legal" class="footer-section col-md-5 col-sm-8">
+              <div class="menu-heading">Legal</div>
+      <ul class="nav">
+        <ul class="nav"><li><a href="https://www.eclipse.org/legal/privacy.php">Privacy Policy</a></li><li><a href="https://www.eclipse.org/legal/termsofuse.php">Terms of Use</a></li><li><a href="https://www.eclipse.org/legal/compliance/">Compliance</a></li><li><a href="https://www.eclipse.org/org/documents/Community_Code_of_Conduct.php">Code of Conduct</a></li><li><a href="https://www.eclipse.org/legal/">Legal Resources</a></li></ul>
+        <li>
+          <a href="#" class="toolbar-manage-cookies">Manage Cookies</a>
+        </li>
+      </ul>      </div>
+      <div id="footer-more" class="footer-section col-md-5 col-sm-8">
+              <div class="menu-heading">More</div>
+      <ul class="nav">
+        <ul class="nav"><li><a href="https://www.eclipse.org/security/">Report a Vulnerability</a></li><li><a href="https://www.eclipsestatus.io/">Service Status</a></li><li><a href="https://www.eclipse.org/org/foundation/contact.php">Contact</a></li><li><a href="https://www.eclipse.org//projects/support/">Support</a></li></ul>
+      </ul>      </div>
+      <div id="footer-end" class="footer-section col-md-8 col-md-offset-1 col-sm-24">
+        <div class="footer-end-social-container">
+          <div class="footer-end-social">
+            <p class="footer-end-social-text">Follow Us:</p>
+            <ul class="footer-end-social-links list-inline">
+               <li>
+                <a class="link-unstyled" href="https://twitter.com/EclipseFdn" title="X account">
+                  <span class="fa-stack">
+                    <i class="fa-solid fa-circle fa-stack-2x" aria-hidden="true"></i>
+                    <i class="fa-brands fa-x-twitter fa-stack-1x fa-inverse" aria-hidden="true"></i>
+                    <span class="sr-only">X account</span>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a class="link-unstyled" href="https://www.facebook.com/eclipse.org" title="Facebook account">
+                  <span class="fa-stack">
+                    <i class="fa-solid fa-circle fa-stack-2x" aria-hidden="true"></i>
+                    <i class="fa-brands fa-facebook-f fa-stack-1x fa-inverse" aria-hidden="true"></i>
+                    <span class="sr-only">Facebook account</span>
+                  </span>
+                </a>
+              </li> 
+              <li>
+                <a class="link-unstyled" href="https://www.youtube.com/user/EclipseFdn" title="YouTube account">
+                  <span class="fa-stack">
+                    <i class="fa-solid fa-circle fa-stack-2x" aria-hidden="true"></i>
+                    <i class="fa-brands fa-youtube fa-stack-1x fa-inverse" aria-hidden="true"></i>
+                    <span class="sr-only">YouTube account</span>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a class="link-unstyled" href="https://www.linkedin.com/company/eclipse-foundation" title="Linkedin account">
+                  <span class="fa-stack">
+                    <i class="fa-solid fa-circle fa-stack-2x" aria-hidden="true"></i>
+                    <i class="fa-brands fa-linkedin-in fa-stack-1x fa-inverse" aria-hidden="true"></i>
+                    <span class="sr-only">Linkedin account</span>
+                  </span>
+                </a>
+              </li> 
+            </ul>
+          </div>
+        </div>
+        <div class="footer-end-newsletter">
+          <div class="footer-end-newsletter">
+            <form 
+              id="mc-embedded-subscribe-form" 
+              action="https://eclipse.us6.list-manage.com/subscribe/post?u=eaf9e1f06f194eadc66788a85&amp;id=e7538485cd&amp;f_id=00f9c2e1f0" 
+              method="post" 
+              novalidate 
+              target="_blank"
+              >
+              <label class="footer-end-newsletter-label" for="email">Subscribe to our Newsletter</label>
+              <div class="footer-end-newsletter-input-wrapper">
+                <input class="footer-end-newsletter-input" type="email" id="email" name="EMAIL" autocomplete="email" placeholder="Enter your email address" />
+                <button class="footer-end-newsletter-submit btn btn-link" id="mc-embedded-subscribe" type="submit" name="subscribe">
+                  <i class="fa fa-solid fa-envelope fa-lg" aria-hidden="true"></i>
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-24">
+      <div class="row">
+        <div id="copyright" class="col-md-16">
+        <p id="copyright-text">Copyright &copy; Eclipse Foundation AISBL. All Rights Reserved.</p>
+        </div>
+      </div>
+    </div>
+    <a href="#" class="scrollup">Back to the top</a>
+  </div>
+</footer>
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://www.eclipse.org/public/js/astro/main.js?v=0.1.2"></script>
+
+</body>
+</html>

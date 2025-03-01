@@ -1,0 +1,14 @@
+package com.Testng;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class TestingPerformance {
+
+	@Test
+	void test() {
+		
+	}
+
+}

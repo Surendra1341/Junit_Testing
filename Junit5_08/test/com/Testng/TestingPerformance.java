@@ -1,0 +1,21 @@
+package com.Testng;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import java.time.Duration;
+import java.util.Arrays;
+
+import org.junit.jupiter.api.Test;
+
+import com.Testing.SortingArray;
+
+class TestingPerformance {
+
+	@Test
+	void testSortingMethod_Performance() {
+		SortingArray arrays= new SortingArray();
+		int[] unsorted= {2,5,1};
+		assertTimeout(Duration.ofMillis(1), ()->arrays.sortingArray(unsorted));
+	}
+
+}

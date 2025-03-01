@@ -1,0 +1,23 @@
+package com.Testing;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import java.util.Arrays;
+
+import org.junit.jupiter.api.Test;
+
+class ArrayTesting {
+		// part 02 check next one for previous part
+	@Test
+	void test() {
+		int[] expected= {2,4,6,8};
+		int[] actual= {4,6,8,2};
+		
+		Arrays.sort(actual);  //2 4 6 8....
+		
+		assertArrayEquals(expected, actual);
+		// if you use normal asserEquals(expected, actual);  it always give failure becuase 
+		
+	}
+
+}

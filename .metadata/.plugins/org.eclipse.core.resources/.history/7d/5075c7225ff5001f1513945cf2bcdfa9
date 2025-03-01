@@ -1,0 +1,15 @@
+package com.Testing;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class TestAssertTrue {
+
+	@Test
+	void test() {
+		String string= " Junit";
+		assertTrue(true);
+	}
+
+}

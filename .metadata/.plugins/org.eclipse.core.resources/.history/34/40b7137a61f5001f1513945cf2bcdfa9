@@ -1,0 +1,7 @@
+package com.Course;
+
+public class JavaCourse implements Course {
+
+	@Override
+	boolean 
+}

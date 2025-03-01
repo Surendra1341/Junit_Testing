@@ -1,0 +1,11 @@
+package com.Testing.Course;
+
+public class PythonCourse  implements Course{
+	
+	 public boolean coursePurchased() {
+		System.out.println("python course purchased ");
+		System.out.println("It is not connect to ");
+		return true;
+	}
+
+}

@@ -1,0 +1,8 @@
+package com.Testing;
+
+public class SortingArray {
+
+	public int[] sortingArray(int[] arr) {
+		
+	}
+}
