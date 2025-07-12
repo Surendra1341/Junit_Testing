@@ -1,4 +1,4 @@
-# 📦 JUnit Testing in Java – First GitHub Project
+# 📦 JUnit Testing in Java – First GitHub Project..
 
 Welcome to my **first GitHub repository**! 🎉  
 In this project, I explored the basics of **unit testing in Java using JUnit** within a **Maven project** structure.
